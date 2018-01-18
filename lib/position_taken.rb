@@ -5,5 +5,7 @@ def position_taken?(board, idx)
     return false
   end
 
-
+  else
+    return false
+  end
 end
